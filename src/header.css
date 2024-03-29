@@ -1,0 +1,7 @@
+.head-container{
+    display:flex;
+    background-color: rgba(4, 177, 4, 0.856);
+    background-size: cover;
+    color:white;
+    font-size: 5px;
+}
